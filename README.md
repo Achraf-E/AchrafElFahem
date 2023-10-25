@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AchrafElFahem
 - 👀 I’m interested in informatic and piano
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning java, python, postgreSQL
 - 💞️ I’m looking to collaborate on programming
 - 📫 How to reach me : achraf.elfahem@gmail.com
 
