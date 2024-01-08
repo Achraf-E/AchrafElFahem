@@ -1,5 +1,5 @@
 <div id="computing img" align = "center">
-  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47fq0h1019oxcl0oa9m714czxkl4clgy21gpjkjbon&ep=v1_gifs_search&rid=giphy.gif" width="100">
+  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47fq0h1019oxcl0oa9m714czxkl4clgy21gpjkjbon&ep=v1_gifs_search&rid=giphy.gif">
 </div>
 <!---
 AchrafElFahem/AchrafElFahem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
