@@ -12,11 +12,20 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<h1 id="skills" align="center">
+<h1 id="languages" align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width =100 >
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width=100 >
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width=100>
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width=100>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width=100>
+</h1>
+<h1 id="front" align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width=100>
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width=100>
+</h1>
+<h1 id="back" align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width=100>
+  <img src="https://cdns-images.dzcdn.net/images/talk/bca807fae5d3403f218f6b7531e018c0/1000x1000.jpg" width=100>
 </h1>
 <!---
 AchrafElFahem/AchrafElFahem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
