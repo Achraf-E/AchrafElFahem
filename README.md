@@ -14,7 +14,8 @@
 </h1>
 <h1 id="skills" align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width =100 >
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width=100 >
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width=100 >
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width=100>
 
 </h1>
 <!---
