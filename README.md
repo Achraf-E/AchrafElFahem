@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @AchrafElFahem
-- 👀 I’m interested in informatic and piano
-- 🌱 I’m currently learning java, python, postgreSQL
-- 💞️ I’m looking to collaborate on programming
-- 📫 How to reach me : achraf.elfahem@gmail.com
-
+<div id="computing img" align = "center">
+  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47fq0h1019oxcl0oa9m714czxkl4clgy21gpjkjbon&ep=v1_gifs_search&rid=giphy.gif" width="100">
+</div>
 <!---
 AchrafElFahem/AchrafElFahem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
