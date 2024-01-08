@@ -27,6 +27,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width=100>
   <img src="https://cdns-images.dzcdn.net/images/talk/bca807fae5d3403f218f6b7531e018c0/1000x1000.jpg" width=100>
 </h1>
+<h1 id="db" align="center">
+  <img src="https://cdns-images.dzcdn.net/images/talk/bca807fae5d3403f218f6b7531e018c0/1000x1000.jpg" width=100>
+  <img srx="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width=100>
+</h1>
 <!---
 AchrafElFahem/AchrafElFahem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
