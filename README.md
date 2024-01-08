@@ -29,7 +29,7 @@
 </h1>
 <h1 id="db" align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width=100>
-  <img srx="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width=100>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width=100>
 </h1>
 <!---
 AchrafElFahem/AchrafElFahem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
